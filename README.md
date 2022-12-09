@@ -4,6 +4,11 @@
 
 Using employee records and data, Pewlett- Hackard asked for help performing employee research to determine the amount of employees retiring per title and the employess eligible to participate in a mentorship program. With thousands of employees getting ready to reach retirement age, the anaylsis perfomed showcased all eligible employees who could be part of the "silver tsunami" exiting the workforce. 
 
+The goal of the analysis was to do the following:
+1. Identify the retiring employees by most current title 
+2. Determine the amount of retiring employees grouped by titles
+3. Identify the employees eligible to participate in a mentorship program to ensure a smooth transition
+
 ## Results
 ![retirement_titles](Analysis_Projects/Pewlett-Hackard-Analysis/Screenshots/retirement_titles.png)
 
