@@ -25,4 +25,3 @@ A table was created to determine the names of employees and their titles that we
 
 From the analysis above, it was determined that as the "silver tsunami" begins to make its impact, roughly 72,458 roles will need to be filled at Pewlett-Hackward. Based on the eligibity criteria given by Pewlett-Hackward, only 1,549 employees are eligible to participate in a mentorship program. When compared with the roughly 72,000 that will be retiring, that is not enough qualified, retirement-ready employees to mentor the new generation. 
 
-### For Further Consideration
